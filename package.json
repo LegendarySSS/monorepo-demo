@@ -1,0 +1,9 @@
+{
+  "name": "monorepo-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx -y only-allow pnpm"
+  },
+  "license": "ISC"
+}

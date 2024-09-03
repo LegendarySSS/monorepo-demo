@@ -1,0 +1,10 @@
+{
+  "name": "@zmh/common",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.ts",
+  "description": "通用工具",
+  "dependencies": {
+    "preact": "^10.23.1"
+  }
+}
