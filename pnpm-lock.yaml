@@ -11,6 +11,9 @@ importers:
       axios:
         specifier: ^1.7.7
         version: 1.7.7
+      preact:
+        specifier: ^10.23.1
+        version: 10.23.2
     devDependencies:
       typescript:
         specifier: ^5.5.3
@@ -27,9 +30,6 @@ importers:
       '@zmh/common':
         specifier: workspace:^
         version: link:../../common
-      preact:
-        specifier: ^10.23.1
-        version: 10.23.2
       project-2:
         specifier: workspace:^
         version: link:../project-2

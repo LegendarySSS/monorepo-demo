@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@zmh/common": "workspace:^",
-    "preact": "^10.23.1",
     "project-2": "workspace:^"
   },
   "devDependencies": {
